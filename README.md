@@ -4,6 +4,7 @@ The client ask to design DB system depend on his requirements which are listed a
 
 • System can store data about every branch like Branch ID, Location and Branch Name.
 • We need to store data about accounts and their owners, every account has account type (saving or current), account number, balance, account status (active or not active), open date, cards with properties (card number, card type, expiry date, status which is active or not active).
+
 • Customer who linked to account must have id, first name, last name, gender, email, birthdate, phones and age which is depend on birthdate.
 • Every branch can make loan to his customers, properties of loan are loan id, loan type, amount, interest rate, start date, end date, duration.
 • Many employees work in every branch have id, first name, last name, salary, position.
