@@ -67,3 +67,55 @@ PHASE II of project begins
    - set a default on employee salary at avg of company's salaries
 7)  rules
    - set a rule on employee salary bigger than specific number
+
+The Data Warehouse model 
+OLAP Schema 
+
+![OLAP_schema](https://github.com/Ahmedelsaghir/Database-for-banking-Application-/assets/69742253/cbd53de8-7a80-4e7a-89f5-3c9b7d470aea)
+
+
+The ETL Packages using SSIS 
+
+![ETL_CSV](https://github.com/Ahmedelsaghir/Database-for-banking-Application-/assets/69742253/1bbe18b5-75d8-46a5-a2c8-5e285373dddc)
+
+![ETL_Excel](https://github.com/Ahmedelsaghir/Database-for-banking-Application-/assets/69742253/77a329a4-5f15-4190-8a24-7c75788adcd7)
+
+![ETL_Flat_File](https://github.com/Ahmedelsaghir/Database-for-banking-Application-/assets/69742253/e1d97786-1b11-41b2-8b95-ab2a3acbdb99)
+
+
+The Cubes using SSAS 
+
+
+![Cube](https://github.com/Ahmedelsaghir/Database-for-banking-Application-/assets/69742253/4050358b-0714-4f97-b877-2f57ebecaae3)
+
+The Reports using SSRS 
+
+![Screenshot (120)](https://github.com/Ahmedelsaghir/Database-for-banking-Application-/assets/69742253/c445d518-8bdf-4a2d-a19e-6945069b7972)
+
+![Screenshot (121)](https://github.com/Ahmedelsaghir/Database-for-banking-Application-/assets/69742253/5a96528e-d450-455e-b509-3acea437c3c8)
+
+![Screenshot (122)](https://github.com/Ahmedelsaghir/Database-for-banking-Application-/assets/69742253/90f59737-f4a7-4aae-8e15-95ced7297846)
+
+![Screenshot (123)](https://github.com/Ahmedelsaghir/Database-for-banking-Application-/assets/69742253/83cbd007-2738-40ad-ad60-4b6efa39fc02)
+
+![Screenshot (124)](https://github.com/Ahmedelsaghir/Database-for-banking-Application-/assets/69742253/41c6f82b-6182-4798-b3cf-e3ee05fdb70c)
+
+The Reports links 
+http://localhost/Reports/browse/Report%20Project1 
+
+The Power BI Reports 
+
+![1](https://github.com/Ahmedelsaghir/Database-for-banking-Application-/assets/69742253/7a8aaf16-c3ff-47e7-9783-ee124f4227e5)
+
+![2](https://github.com/Ahmedelsaghir/Database-for-banking-Application-/assets/69742253/d1c701cb-3d9f-4f93-8b4f-7783fbff70f5)
+
+![3](https://github.com/Ahmedelsaghir/Database-for-banking-Application-/assets/69742253/00dde026-f9c9-4e9a-9fd9-8d52f45f83da)
+
+![4](https://github.com/Ahmedelsaghir/Database-for-banking-Application-/assets/69742253/e2b8a6c3-fa49-4318-8b6e-edfe89d0c732)
+
+![5](https://github.com/Ahmedelsaghir/Database-for-banking-Application-/assets/69742253/cf6ecce8-0b55-4357-9762-6f4948856057)
+
+![6](https://github.com/Ahmedelsaghir/Database-for-banking-Application-/assets/69742253/d4c47717-9691-4d0c-a02e-7a1f7b4ed164)
+
+![7](https://github.com/Ahmedelsaghir/Database-for-banking-Application-/assets/69742253/8c247759-87dd-4157-85a9-8351d037438b)
+
